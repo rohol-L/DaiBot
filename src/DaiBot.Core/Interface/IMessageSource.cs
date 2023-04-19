@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DaiBot.Core.Interface
+{
+    public interface IMessageSource
+    {
+        public void Start(Action<MessageContext> send);
+        public void Stop();
+    }
+}

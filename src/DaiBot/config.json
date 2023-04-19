@@ -1,0 +1,31 @@
+﻿{
+  "botName": "小呆",
+  "masterName": "呆狼",
+  "cmd": {
+    "uid": 458253584,
+    "gid": 0,
+    "authorization": "master,cmd"
+  },
+  "http": {
+    "host": "+",
+    "port": 8067
+  },
+  "cq": {
+    "url": "ws://127.0.0.1:8020",
+    "token": "xxx"
+  },
+  "infomonkeys": {
+    "team": "xxxxxxxxxxxxxxxxxxxxxx",
+    "token": "xxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "openAI": {
+    "token": "sk-xxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "baiduTrans": {
+    "appId": "2019000000000000000000",
+    "secretKey": "xxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "tianApi": {
+    "token": "xxxxxxxxxxxxxxxxxxxxxx"
+  }
+}

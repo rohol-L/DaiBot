@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DaiBot": {
+      "commandName": "Project",
+      "commandLineArgs": "--debug --dev"
+    }
+  }
+}
