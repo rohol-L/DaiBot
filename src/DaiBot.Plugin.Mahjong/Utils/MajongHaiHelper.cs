@@ -214,7 +214,7 @@ namespace DaiBot.Plugin.Nanikiru.Utils
                 haisiCount = 14;
             }
 
-            string info = $"{kazes[problem.Kaze[0] - '1']}1局 东家 {problem.Junme}巡目";
+            string info = $"东1局 {kazes[problem.Kaze[0] - '1']}家 {problem.Junme}巡目";
 
             int tsumoIdx = -1;
             if (tsumo?.Length > 0)
